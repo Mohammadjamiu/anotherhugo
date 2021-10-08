@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lca-posts on Tooabstractive</title>
+    <link>/lca-post/</link>
+    <description>Recent content in Lca-posts on Tooabstractive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/lca-post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The only way to learn and understand the basics of circuit analysis</title>
+      <link>/lca-post/how-to-learn-circuit-analysis-basics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/lca-post/how-to-learn-circuit-analysis-basics/</guid>
+      <description>When you ask someone how can I learn the basics of circuit analysis? Most times the answer is practice-practice-practice. Though that’s right but you can only practice stuff you find easier to understand and the necessary fundamentals to have are also right because, how can you even analyze or design a circuit if you don’t know how resistor works or you don’t love dealing with calculations.
+The case here is that don’t just learn circuit analysis techniques or concepts from textbooks as if they are somewhat abstract or different, try to learn how they link with each other or what can they be used for.</description>
+    </item>
+    
+  </channel>
+</rss>

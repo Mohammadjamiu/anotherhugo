@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tooabstractive</title>
+    <link>/</link>
+    <description>Recent content on Tooabstractive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Payoff skills that every engineering students needs to learn before leaving college or University</title>
+      <link>/misce-post/skills-every-engineering-student-needs-to-learn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/misce-post/skills-every-engineering-student-needs-to-learn/</guid>
+      <description>NB: This post contains some affliate links - which means TA might get acommission as you subscribe but, at no extra cost to you.This post is among the series of post tagged “4 years of college shouldn’t be a waste of time” wherewe discussed about how to be productive, have better grades and even develop skills that payoff onthe long run.Without doubt, we all know that engineering is an interesting but a complex field to study and mosttimes, it is due to the fact that the standard we are being taught with is quite outdated or notthat useful in the industry or the world we are in today.</description>
+    </item>
+    
+    <item>
+      <title>The only way to learn and understand the basics of circuit analysis</title>
+      <link>/lca-post/how-to-learn-circuit-analysis-basics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/lca-post/how-to-learn-circuit-analysis-basics/</guid>
+      <description>When you ask someone how can I learn the basics of circuit analysis? Most times the answer is practice-practice-practice. Though that’s right but you can only practice stuff you find easier to understand and the necessary fundamentals to have are also right because, how can you even analyze or design a circuit if you don’t know how resistor works or you don’t love dealing with calculations.
+The case here is that don’t just learn circuit analysis techniques or concepts from textbooks as if they are somewhat abstract or different, try to learn how they link with each other or what can they be used for.</description>
+    </item>
+    
+    <item>
+      <title>What Is Voltage, Current and Resistance In Simple Terms?</title>
+      <link>/learnca/what-is-voltage-current-and-resistance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/learnca/what-is-voltage-current-and-resistance/</guid>
+      <description>Content SummaryCircuits are fascinating and can be found in our smartphones,computer, even the PS5 gaming pad and much more.A circuit or electric circuit is a close loop that allows the flowof electricity.The interconnections of circuit components without forming aclosed loop is called electrical network.Voltage is the pressure or force applied to push current through abranch in a circuit.</description>
+    </item>
+    
+    <item>
+      <title>Electronics Circuit Components And Their Functions Explained</title>
+      <link>/learnca/electronics-circuit-components-explained/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/learnca/electronics-circuit-components-explained/</guid>
+      <description>Content SummaryA battery is considered as one of the source of voltage.Resistor is a component that offers resistance to the flow ofcurrent in a circuit.Capacitor which in simple term is a passive device orcomponentthatstores charges or energy for a short period of time.An inductor works same way as the capacitor becausethey store charge but one of their difference is that it useswounded conductors rather than capacitor that uses plates separatedby air gap or dielectrics.</description>
+    </item>
+    
+    <item>
+      <title>Resources to help you learn and understand Electromagnetics field theory from scratch</title>
+      <link>/em-post/resources-to-help-you-learn-electromagnetics-from-scratch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/em-post/resources-to-help-you-learn-electromagnetics-from-scratch/</guid>
+      <description>NB: This post contains free downloadable files and affliate links to some books - which means TA might get acommission as you engage but, at no extra cost to you.In this post, I would be listing out the resources to help you self-learn electromagnetics fieldtheory from scratch and these resources are what I’ve came across over the years as an electricalengineering student trying to desperately learn electromagnetics field theory because, to be frankwith you it’s a difficult but interesting course.</description>
+    </item>
+    
+    <item>
+      <title>What Is Ohms Law In Simple Terms? And Why Is It Useful</title>
+      <link>/learnca/what-is-ohms-law/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/learnca/what-is-ohms-law/</guid>
+      <description>Content SummaryThe ohms law is the fundamental law that relates voltage, current and resistance by using simple mathematicalexpressions. Ohms law is the law that most other techniques (e.g. kirchoffs law, nodal analysis and mesh analysis) are derived from.what is ohm&#39;s law and why do we need itThe ohms law is the fundamental law that relates voltage, current and resistance by using simple mathematicalexpressions which says V = IR.</description>
+    </item>
+    
+    <item>
+      <title> Series and parallel combination of resistors explained with how to identify them</title>
+      <link>/learnca/series-and-parallel-resistor-and-how-to-identify-them/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/learnca/series-and-parallel-resistor-and-how-to-identify-them/</guid>
+      <description>Content SummaryResistors in series are connected head to tail.A resistor in series allows the same current to flow throughthem but different voltage will bedropped across them if their resistance value is different.Resistors in parallel are connected head to head and tail totail.A resistor in parallel have same voltage but different current will beflowing through each resistor depending on their resistance value.</description>
+    </item>
+    
+    <item>
+      <title>Star - Delta Transformation Explained With Tips On How To Recall The Formulas</title>
+      <link>/learnca/delta-and-star-connection-of-resistors-explained/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/learnca/delta-and-star-connection-of-resistors-explained/</guid>
+      <description>Content SummaryThe star and delta transformation involves converting from star to delta or delta to star and we do this when our resistors are not connected in parallel or series.The delta can be structured in two ways as having a triangleshape or pie shape. The star has awye or T shape.Why and how do we do star to delta or delta to star transformationThe star and delta transformation involves converting from star to delta or delta to star and we dothis when our resistors are not connected in parallel or series.</description>
+    </item>
+    
+    <item>
+      <title>About TA</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Credits</title>
+      <link>/credit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/credit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Donate</title>
+      <link>/donate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/donate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thank You</title>
+      <link>/thank-you/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/thank-you/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Easiest Way to Study Electromagnetics</title>
+      <link>/em-post/the-easiest-way-to-study-electromagnetics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/em-post/the-easiest-way-to-study-electromagnetics/</guid>
+      <description>As an electrical engineering student, we all have that one course that frightens us and one of them is electromagnetics field theory sometimes called engineering electromagnetics.
+In this section, I would discuss why it is difficult to learn and understand electromagnetics field theory and then proceed to how we can grasp the concepts using some techniques and tips.
+Why is electromagnetics field theory difficult to learn? It is difficult to learn because, it is full of abstractions (meaning concepts that can’t be seen physically with the naked eye except by imagination, experience or by accident) for example an electric field or a magnetic field.</description>
+    </item>
+    
+    <item>
+      <title>What Is Crammers Rule</title>
+      <link>/funmaths/what-is-crammers-rule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/funmaths/what-is-crammers-rule/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
